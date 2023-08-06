@@ -1,5 +1,5 @@
 <h1>Leukemia Detection</h1>
-Web deployment of ResNet34 model to detect types Acute Lymphoblastic Leukemia</br>
+Web deployment of ResNet34 model to detect types of Acute Lymphoblastic Leukemia</br>
 </br>
 
 <h1>Screenshot:</h1>
